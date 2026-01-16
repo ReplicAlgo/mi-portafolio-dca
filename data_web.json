@@ -1,0 +1,155 @@
+{
+    "Fecha": "20251103",
+    "Ordenes": [
+        {
+            "Accion": "VENDER",
+            "Simbolo": "JNK",
+            "Nombre": "Bonos alto Riesgo",
+            "Porcentaje": "Salida Total",
+            "Instruccion": "Vender al mercado en la apertura",
+            "InfoMGC": "IHYA"
+        },
+        {
+            "Accion": "COMPRAR",
+            "Simbolo": "UUP",
+            "Nombre": "Dolar",
+            "Porcentaje": "20%",
+            "Instruccion": "Comprar al mercado en la apertura",
+            "InfoMGC": "IB01*"
+        }
+    ],
+    "Portafolio": [
+        {
+            "Simbolo": "QQQ",
+            "Nombre": "Nasdaq100",
+            "Porcentaje": "30%",
+            "Estado": "Mantenido",
+            "InfoMGC": "EQAC"
+        },
+        {
+            "Simbolo": "SPY",
+            "Nombre": "S&P500",
+            "Porcentaje": "30%",
+            "Estado": "Mantenido",
+            "InfoMGC": "CSPX / VOO / SPXS"
+        },
+        {
+            "Simbolo": "GLD",
+            "Nombre": "Oro",
+            "Porcentaje": "20%",
+            "Estado": "Mantenido",
+            "InfoMGC": "SGLD"
+        },
+        {
+            "Simbolo": "UUP",
+            "Nombre": "Dolar",
+            "Porcentaje": "20%",
+            "Estado": "NUEVA COMPRA",
+            "InfoMGC": "IB01*"
+        }
+    ],
+    "Historico": {
+        "resumen": {
+            "Benchmark 60/40": "347.53%",
+            "Smart-DCA": "730.16%"
+        },
+        "tabla_anual": [
+            {
+                "Año": 2025,
+                "Retorno": "23.1%",
+                "MaxPerdida Acumulada": "-14.1%"
+            },
+            {
+                "Año": 2024,
+                "Retorno": "19.4%",
+                "MaxPerdida Acumulada": "-7.8%"
+            },
+            {
+                "Año": 2023,
+                "Retorno": "25.6%",
+                "MaxPerdida Acumulada": "-4.9%"
+            },
+            {
+                "Año": 2022,
+                "Retorno": "-21.5%",
+                "MaxPerdida Acumulada": "-24.2%"
+            },
+            {
+                "Año": 2021,
+                "Retorno": "15.2%",
+                "MaxPerdida Acumulada": "-9.9%"
+            },
+            {
+                "Año": 2020,
+                "Retorno": "30.7%",
+                "MaxPerdida Acumulada": "-20.9%"
+            },
+            {
+                "Año": 2019,
+                "Retorno": "27.9%",
+                "MaxPerdida Acumulada": "-6.1%"
+            },
+            {
+                "Año": 2018,
+                "Retorno": "-1.6%",
+                "MaxPerdida Acumulada": "-14.2%"
+            },
+            {
+                "Año": 2017,
+                "Retorno": "19.3%",
+                "MaxPerdida Acumulada": "-3.2%"
+            },
+            {
+                "Año": 2016,
+                "Retorno": "6.0%",
+                "MaxPerdida Acumulada": "-6.9%"
+            },
+            {
+                "Año": 2015,
+                "Retorno": "4.8%",
+                "MaxPerdida Acumulada": "-8.8%"
+            },
+            {
+                "Año": 2014,
+                "Retorno": "17.5%",
+                "MaxPerdida Acumulada": "-4.1%"
+            },
+            {
+                "Año": 2013,
+                "Retorno": "20.0%",
+                "MaxPerdida Acumulada": "-5.4%"
+            },
+            {
+                "Año": 2012,
+                "Retorno": "10.6%",
+                "MaxPerdida Acumulada": "-5.8%"
+            },
+            {
+                "Año": 2011,
+                "Retorno": "3.9%",
+                "MaxPerdida Acumulada": "-6.9%"
+            },
+            {
+                "Año": 2010,
+                "Retorno": "15.1%",
+                "MaxPerdida Acumulada": "-9.0%"
+            },
+            {
+                "Año": 2009,
+                "Retorno": "29.7%",
+                "MaxPerdida Acumulada": "-9.9%"
+            },
+            {
+                "Año": 2008,
+                "Retorno": "-21.2%",
+                "MaxPerdida Acumulada": "-32.4%"
+            },
+            {
+                "Año": 2007,
+                "Retorno": "19.8%",
+                "MaxPerdida Acumulada": "-9.7%"
+            }
+        ],
+        "url_grafico": "C:\\RealTest\\Output\\Reports\\2563_AF_BuyHold_60-4_0rotationETF_Montlhly\\graph2.png"
+    }
+}
