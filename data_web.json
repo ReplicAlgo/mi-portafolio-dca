@@ -57,99 +57,99 @@
             {
                 "Año": 2025,
                 "Retorno": "23.1%",
-                "MaxPerdida Acumulada": "-14.1%"
+                "MaxPerdida": "-14.1%"
             },
             {
                 "Año": 2024,
                 "Retorno": "19.4%",
-                "MaxPerdida Acumulada": "-7.8%"
+                "MaxPerdida": "-7.8%"
             },
             {
                 "Año": 2023,
                 "Retorno": "25.6%",
-                "MaxPerdida Acumulada": "-4.9%"
+                "MaxPerdida": "-4.9%"
             },
             {
                 "Año": 2022,
                 "Retorno": "-21.5%",
-                "MaxPerdida Acumulada": "-24.2%"
+                "MaxPerdida": "-24.2%"
             },
             {
                 "Año": 2021,
                 "Retorno": "15.2%",
-                "MaxPerdida Acumulada": "-9.9%"
+                "MaxPerdida": "-9.9%"
             },
             {
                 "Año": 2020,
                 "Retorno": "30.7%",
-                "MaxPerdida Acumulada": "-20.9%"
+                "MaxPerdida": "-20.9%"
             },
             {
                 "Año": 2019,
                 "Retorno": "27.9%",
-                "MaxPerdida Acumulada": "-6.1%"
+                "MaxPerdida": "-6.1%"
             },
             {
                 "Año": 2018,
                 "Retorno": "-1.6%",
-                "MaxPerdida Acumulada": "-14.2%"
+                "MaxPerdida": "-14.2%"
             },
             {
                 "Año": 2017,
                 "Retorno": "19.3%",
-                "MaxPerdida Acumulada": "-3.2%"
+                "MaxPerdida": "-3.2%"
             },
             {
                 "Año": 2016,
                 "Retorno": "6.0%",
-                "MaxPerdida Acumulada": "-6.9%"
+                "MaxPerdida": "-6.9%"
             },
             {
                 "Año": 2015,
                 "Retorno": "4.8%",
-                "MaxPerdida Acumulada": "-8.8%"
+                "MaxPerdida": "-8.8%"
             },
             {
                 "Año": 2014,
                 "Retorno": "17.5%",
-                "MaxPerdida Acumulada": "-4.1%"
+                "MaxPerdida": "-4.1%"
             },
             {
                 "Año": 2013,
                 "Retorno": "20.0%",
-                "MaxPerdida Acumulada": "-5.4%"
+                "MaxPerdida": "-5.4%"
             },
             {
                 "Año": 2012,
                 "Retorno": "10.6%",
-                "MaxPerdida Acumulada": "-5.8%"
+                "MaxPerdida": "-5.8%"
             },
             {
                 "Año": 2011,
                 "Retorno": "3.9%",
-                "MaxPerdida Acumulada": "-6.9%"
+                "MaxPerdida": "-6.9%"
             },
             {
                 "Año": 2010,
                 "Retorno": "15.1%",
-                "MaxPerdida Acumulada": "-9.0%"
+                "MaxPerdida": "-9.0%"
             },
             {
                 "Año": 2009,
                 "Retorno": "29.7%",
-                "MaxPerdida Acumulada": "-9.9%"
+                "MaxPerdida": "-9.9%"
             },
             {
                 "Año": 2008,
                 "Retorno": "-21.2%",
-                "MaxPerdida Acumulada": "-32.4%"
+                "MaxPerdida": "-32.4%"
             },
             {
                 "Año": 2007,
                 "Retorno": "19.8%",
-                "MaxPerdida Acumulada": "-9.7%"
+                "MaxPerdida": "-9.7%"
             }
         ],
-        "url_grafico": "C:\\RealTest\\Output\\Reports\\2563_AF_BuyHold_60-4_0rotationETF_Montlhly\\graph2.png"
+        "url_grafico": "graph2.png"
     }
 }
